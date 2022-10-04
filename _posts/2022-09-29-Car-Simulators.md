@@ -74,6 +74,10 @@ For **Linux**, the following environments are available:
 > Windows : *AirSimNH/WindowsNoEditor/AirSimNH/Binaries/Win64/AirSimNH.exe* <br>
 > Linux   : *AirSimNH/LinuxNoEditor/AirSimNH/Binaries/Linux/AirSimNH* <br>
 
+<iframe width="456" height="260" src="https://www.youtube.com/embed/G5ersvlGZMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="456" height="260" src="https://www.youtube.com/embed/GtrQzdlFMFs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <table>
   <tr>
   <td><iframe width="456" height="260" src="https://www.youtube.com/embed/G5ersvlGZMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
